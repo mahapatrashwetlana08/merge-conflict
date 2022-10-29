@@ -2,14 +2,20 @@ pseudo code
 {
 Initial Function()
 {
+<<<<<<< HEAD
   printf("Hello world")
-  printf("Hello world")
+=======
+ printf("Hello world")
+>>>>>>> feature2
 }
 
 Initial Security()
 {
+<<<<<<< HEAD
  printf("Security patch for feature1")
+=======
  printf("Security patch for feature2")
+>>>>>>> feature2
 }
 
 
