@@ -2,12 +2,12 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+ printf("Hello world")
 }
 
 Initial Security()
 {
- //Sample Code
+ printf("Security patch for feature2")
 }
 
 
